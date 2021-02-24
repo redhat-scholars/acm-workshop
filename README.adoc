@@ -2,4 +2,4 @@
 
 This is the repository for the RH ACM Workshop.
 
-Check the ocp-tigers.github.io/acm-workshop for more info.
+Check the [RH ACM Workshop](ocp-tigers.github.io/acm-workshop) for more info.
