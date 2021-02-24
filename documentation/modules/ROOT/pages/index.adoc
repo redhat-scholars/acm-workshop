@@ -1,4 +1,4 @@
-= Welcome to Template Tutorial
+= Welcome to Red Hat Advanced Cluster Management for Kubernetes workshop
 :page-layout: home
 :!sectids:
 
