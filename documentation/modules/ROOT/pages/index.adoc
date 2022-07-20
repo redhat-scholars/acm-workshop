@@ -2,11 +2,22 @@
 :page-layout: home
 :!sectids:
 
-image::acs-logo.svg[ACS Logo, 400]
+image::rhacm.png[ACM Logo, 400]
 
 [.text-center.strong]
 == Red Hat Advanced Cluster Management for Kubernetes
 
-Red Hat Advanced Cluster Management for Kubernetes 
+Red Hat® Advanced Cluster Management for Kubernetes controls clusters and applications from a single console, with built-in security policies. Extend the value of Red Hat OpenShift® by deploying apps, managing multiple clusters, and enforcing policies across multiple clusters at scale. Red Hat’s solution ensures compliance, monitors usage, and maintains consistency.
 
 
+== RHACM Features
+
+* **Manage Kubernetes clusters**: Run your operations from anywhere that Red Hat OpenShift runs, and manage any Kubernetes cluster in your fleet.
+* **Accelerate development to production**: Speed up application development pipelines with self-service provisioning.
+* **Increase application availability**: Deploy legacy and cloud-native applications quickly across distributed clusters.
+* **Central management automatically**: Free up IT departments with self-service cluster deployment that automatically delivers applications.
+* **Ease compliance**: Streamline security compliance with centralized policy enforcement across clusters.
+* **Reduce operational costs**: Lower operational costs with a unified management interface.
+
+
+IMPORTANT: This is not an official RH Advanced Cluster Management guide or workshop. Please contact with your RH representative if you want more information about Training or Guidelines about this topic / product.

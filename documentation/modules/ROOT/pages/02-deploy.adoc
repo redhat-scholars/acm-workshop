@@ -1,43 +1,15 @@
-= Deploy Service
+= Getting Started
 include::_attributes.adoc[]
+:profile: acs
 
-[#service]
-== The Service
+We will install ACM thought the RHACM Operator and afterwards we will install an small demo that will serve examples to our workshop.
 
-The code:
+[#install_acm_operator]
+== ACM Operator Installation
 
-[.lines_7]
-[.console-input]
-[source, java,subs="+macros,+attributes"]
-----
-public class Main {
+. Find and the Advanced Cluster Security Operator from the Operator Hub.
 
-    public static void main(String[] args) {
+[#install_acs_hub]
+== ACM Hub Installation
 
-    } 
-
-}
-
-./mvnw compile
-----
-
-[#package]
-== Packaging the Service
-
-You can package the next bash script:
-
-[source,bash,subs="+macros,+attributes"]
-----
-include::example$run.sh[]
-----
-
-[#deploy]
-== Deploy the Service
-
-And then you can deploy the service and execute commands inside:
-
-:podname: apps
-
-include::partial$exec_pod.adoc[]
-
-:!podname:
+In this section we will deploy the ACM Hub component in the lab cluster. 
