@@ -1,5 +1,5 @@
-name: template-tutorial
-title: Template Tutorial
+name: acm-workshop
+title: ACM Workshop
 version: master
 nav:
   - modules/ROOT/nav.adoc

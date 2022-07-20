@@ -12,23 +12,3 @@ The general idea of Red Hat Advanced Cluster Management workshop is to get a dee
 * End2End Visibility
 * Cluster Lifecycle
 * Role Based Access Control
-
-[.text-center.strong]
-== Get Started
-
-First of all, it is required to review your local machine prerequisites and laboratory environment access in order to be able to start working on this tutorial.
-
-Please, follow Get Started for more information.
-
-
-[.tiles.browse]
-== Browse modules
-
-[.tile]
-.xref:01-setup.adoc[Get Started]
-* xref:01-setup.adoc#minikube[Minikube]
-
-[.tile]
-.xref:02-deploy.adoc[Deploying]
-* xref:02-deploy.adoc#package[Package the Application]
-* xref:02-deploy.adoc#deploy[Deploy the Application]
