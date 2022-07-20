@@ -2,5 +2,3 @@
 
 This is the repository for the RH ACM Workshop.
 
-Check the [RH ACM Workshop](redhat-scholars.github.io/acm-workshop) for more info.
-
