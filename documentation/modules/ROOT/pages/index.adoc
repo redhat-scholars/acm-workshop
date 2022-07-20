@@ -1,4 +1,4 @@
-= Welcome to Red Hat Advanced Cluster Management Workshop
+= Red Hat Advanced Cluster Management Workshop
 :page-layout: home
 :!sectids:
 
