@@ -1,14 +1,12 @@
-= Welcome to Red Hat Advanced Cluster Management for Kubernetes workshop
+= Welcome to Red Hat Advanced Cluster Management Workshop
 :page-layout: home
 :!sectids:
 
+image::acs-logo.svg[ACS Logo, 400]
+
 [.text-center.strong]
-== Overview
+== Red Hat Advanced Cluster Management for Kubernetes
 
-The general idea of Red Hat Advanced Cluster Management workshop is to get a deep understanding of the following points:
+Red Hat Advanced Cluster Management for Kubernetes 
 
-* Red Hat ACM Architecture
-* Application Lifecycle
-* End2End Visibility
-* Cluster Lifecycle
-* Role Based Access Control
+
