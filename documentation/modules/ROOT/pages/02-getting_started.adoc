@@ -7,7 +7,14 @@ We will install ACM thought the RHACM Operator and afterwards we will install an
 [#install_acm_operator]
 == ACM Operator Installation
 
+[.console-input]
+[source,bash,subs="attributes+,+macros"]	
+----	
+oc new-project open-cluster-management	
+----
+
 . Find and the Advanced Cluster Security Operator from the Operator Hub.
+
 
 [#install_acs_hub]
 == ACM Hub Installation
