@@ -10,14 +10,16 @@
 ** xref:03-overview.adoc#acm_architecture[ACM Architecture]
 ** xref:03-overview-acs.adoc#dashboard_acs[ACS Dashboard]
 
-* xref:03-cluster_management.adoc[Cluster Management]
+* xref:04-cluster_management.adoc[Cluster Management]
+** xref:04-cluster_management.adoc#import_cluster[Import Cluster]
 
-* xref:04-observability.adoc[Observability]
+* xref:05-observability.adoc[Observability]
+** xref:05-observability.adoc#deploy_observability[Deploying Observability]
 
-* xref:05-application_lifecycle.adoc[Application Lifecycle]
+* xref:06-application_lifecycle.adoc[Application Lifecycle]
 
-* xref:06-governance__risk_compliance.adoc[Governance Risk and Compliance]
+* xref:07-governance__risk_compliance.adoc[Governance Risk and Compliance]
 
-* xref:07-gatekeeper_integrator.adoc[Gatekeeper Integration]
+* xref:08-gatekeeper_integrator.adoc[Gatekeeper Integration]
 
-* xref:08-ansible_tower_integrator.adoc[Ansible Tower Integration]
+* xref:09-ansible_tower_integrator.adoc[Ansible Tower Integration]
