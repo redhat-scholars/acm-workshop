@@ -23,7 +23,7 @@
 ** xref:07-governance_risk_compliance.adoc#overview_grc[Overview ACM GRC]
 
 * xref:08-gatekeeper_integrator.adoc[Gatekeeper Integration]
-* xref:08-gatekeeper_integrator.adoc#overview_gatekeeper[Overview Gatekeeper and OPA]
+** xref:08-gatekeeper_integrator.adoc#overview_gatekeeper[Overview Gatekeeper and OPA]
 
 * xref:09-ansible_tower_integrator.adoc[Ansible Tower Integration]
-* xref:09-ansible_tower_integrator.adoc#before_begin[Before you Begin]
+** xref:09-ansible_tower_integrator.adoc#before_begin[Before you Begin]
