@@ -1,0 +1,15 @@
+= Getting Started
+include::_attributes.adoc[]
+:profile: acs
+
+We will install ACM thought the RHACM Operator and afterwards we will install an small demo that will serve examples to our workshop.
+
+[#install_acm_operator]
+== ACM Operator Installation
+
+. Find and the Advanced Cluster Security Operator from the Operator Hub.
+
+[#install_acs_hub]
+== ACM Hub Installation
+
+In this section we will deploy the ACM Hub component in the lab cluster. 
